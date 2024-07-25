@@ -1,4 +1,4 @@
-package dev.aitor.supportApp.config;
+package dev.aitor.SupportApp.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

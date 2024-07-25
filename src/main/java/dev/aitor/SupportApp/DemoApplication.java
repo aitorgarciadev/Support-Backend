@@ -1,4 +1,4 @@
-package dev.aitor.demo;
+package dev.aitor.SupportApp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
